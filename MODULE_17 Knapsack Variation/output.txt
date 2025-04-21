@@ -1,0 +1,1 @@
+Total way for Subset sum creat = 1
